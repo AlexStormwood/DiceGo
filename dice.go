@@ -9,13 +9,14 @@ import "time"
 // Usage: 
 /*
 package main
+
 import (
     "fmt"
-    "alexholderdev/godice"
+    DiceGo "github.com/AlexHolderDeveloper/DiceGo"
 )
+
 func main() {
-	// Roll a 20-sided dice and print its result.
-    fmt.Println(godice.RollDice(20))
+    fmt.Println(DiceGo.RollDice(20))
 }
 
 */
